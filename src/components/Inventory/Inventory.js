@@ -2,8 +2,8 @@ import React from 'react';
 
 const Inventory = () => {
     return (
-        <div>
-            <h2>Hello From Inventory!!</h2>
+        <div style={{ textAlign: 'center', fontSize: '30px' }}>
+            <h1>Developer is sleeping</h1>
         </div>
     );
 };
